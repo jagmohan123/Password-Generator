@@ -8,3 +8,5 @@ Users can often customize the generated passwords by specifying parameters such 
 # Randomness:
 The strength of these websites lies in their ability to generate truly random passwords. They use algorithms or entropy sources to ensure that passwords are not predictable, making them resistant to brute-force attacks.
 
+# Live Link
+https://jagmohan123.github.io/Password-Generator/
